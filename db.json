@@ -1,0 +1,259 @@
+{
+  "categorias": [
+      {
+    "id": "1",
+    "nombre": "Back End",
+    "colorPrimario": "#46b96f",
+    "colorSecundario": "#D9F7E9",
+    "descripcion": "Todos los video que estoy usando para estudiar Back End."
+  },
+  {
+    "id": "3",
+    "nombre": "Data Science",
+    "colorPrimario": "#A6D157",
+    "colorSecundario": "#F0F8E2",
+    "descripcion": "Enim dolor incididunt adipisicing sunt nulla excepteur."
+  },
+  {
+    "id": "4",
+    "nombre": "Devops",
+    "colorPrimario": "#E06B69",
+    "colorSecundario": "#FDE7E8",
+    "descripcion": "Yoquese"
+  },
+  {
+    "id": "5",
+    "nombre": "UX y Diseño",
+    "colorPrimario": "#DB6EBF",
+    "colorSecundario": "#FAE9F5",
+    "descripcion": "Quis elit tempor velit nisi do amet ipsum non non."
+  },
+  {
+    "nombre": "Front End",
+    "descripcion": "Qui deserunt laborum in enim fugiat ex occaecat sint duis sunt ipsum cillum.",
+    "colorPrimario": "#82cffa",
+    "id": "6"
+  },
+  {
+    "nombre": "Alura Films",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "colorPrimario": "#2515e6",
+    "id": "7"
+  },
+  {
+    "nombre": "Big Data",
+    "descripcion": "Datos",
+    "colorPrimario": "#09fb52",
+    "id": "8"
+  }
+  ],
+  "videos": [
+ {
+  "id_categoria": "7",
+  "titulo": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás",
+  "thumbnail_url": "https://i.ytimg.com/vi/UuAX5azcvDQ/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
+  "videoID": "UuAX5azcvDQ",
+  "id": "1",
+  "author_name": "Alura Latam"
+ },
+ {
+  "id_categoria": "7",
+  "titulo": "¿Qué es JavaScript?",
+  "thumbnail_url": "https://i.ytimg.com/vi/GJfOSoaXk4s/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+  "videoID": "GJfOSoaXk4s",
+  "id": "2",
+  "author_name": "Alura Latam"
+ },
+ {
+  "id_categoria": "7",
+  "titulo": "Git y GitHub para Principiantes #AluraMás",
+  "thumbnail_url": "https://i.ytimg.com/vi/-LmFK6skG7s/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=-LmFK6skG7s",
+  "videoID": "",
+  "id": "3",
+  "author_name": "Alura Latam"
+ },
+ {
+  "id_categoria": "7",
+  "titulo": "Bucles y Bucles Anidados en Javascript #AluraMás",
+  "thumbnail_url": "https://i.ytimg.com/vi/FEdqGdtZuwc/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=FEdqGdtZuwc",
+  "videoID": "FEdqGdtZuwc",
+  "id": "4",
+  "author_name": "Alura Latam"
+ },
+ {
+  "id_categoria": "7",
+  "titulo": "Equipo Front End #AluraMás",
+  "thumbnail_url": "https://i.ytimg.com/vi/rpvrLaBQwgg/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+  "videoID": "rpvrLaBQwgg",
+  "id": "5",
+  "author_name": "Alura Latam"
+ },
+ {
+  "id_categoria": "7",
+  "titulo": "¿Qué es la lógica de programación y cómo aplicarla? #AluraMás",
+  "thumbnail_url": "https://i.ytimg.com/vi/3W983Q2NzRI/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=3W983Q2NzRI",
+  "videoID": "3W983Q2NzRI",
+  "id": "6",
+  "author_name": "Alura Latam"
+ },
+ {
+  "id_categoria": "7",
+  "titulo": "¿Cuáles son las principales áreas de la programación? #aluramás",
+  "thumbnail_url": "https://i.ytimg.com/vi/03cxUlwLVt4/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=03cxUlwLVt4",
+  "videoID": "03cxUlwLVt4",
+  "id": "7",
+  "author_name": "Alura Latam"
+ },
+ {
+  "id_categoria": "7",
+  "titulo": "Café Punto Tech | ¿Cómo elegir entre Frontend y Backend?",
+  "thumbnail_url": "https://i.ytimg.com/vi/19x46ZQD49A/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=19x46ZQD49A",
+  "videoID": "19x46ZQD49A",
+  "id": "8",
+  "author_name": "Alura Latam"
+ },
+ {
+  "id_categoria": "6",
+  "titulo": "React slick. How to use react-slick and create a carousel (with source code) 2022",
+  "thumbnail_url": "https://i.ytimg.com/vi/8kbS2WEZieU/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=8kbS2WEZieU",
+  "videoID": "8kbS2WEZieU",
+  "id": "9",
+  "author_name": "Travels Code"
+ },
+ {
+  "id_categoria": "6",
+  "titulo": "From Design to Code // HTML & CSS from scratch // Frontend Mentor",
+  "thumbnail_url": "https://i.ytimg.com/vi/KqFAs5d3Yl8/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=KqFAs5d3Yl8&t=1171s&pp=ygUJZnJvbnQgZW5k",
+  "videoID": "KqFAs5d3Yl8",
+  "id": "10",
+  "author_name": "Kevin Powell"
+ },
+ {
+  "id_categoria": "1",
+  "titulo": "Callbacks 🆚 Promises en JavaScript. ¡Entiende las diferencias y la importancia de cada una!",
+  "thumbnail_url": "https://i.ytimg.com/vi/frm0CHyeSbE/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=frm0CHyeSbE&pp=ygUIYmFjayBlbmQ%3D",
+  "videoID": "frm0CHyeSbE",
+  "id": "11",
+  "author_name": "midulive"
+ },
+ {
+  "id_categoria": "5",
+  "titulo": "Taller de Diseño con FIGMA para DEVELOPERS | HackerLIVE#40",
+  "thumbnail_url": "https://i.ytimg.com/vi/jy0IgvV42es/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=jy0IgvV42es",
+  "videoID": "jy0IgvV42es",
+  "id": "12",
+  "author_name": "MoureDev by Brais Moure"
+ },
+ {
+  "id_categoria": "1",
+  "titulo": "Back End",
+  "thumbnail_url": "https://i.ytimg.com/vi/Z024LSCMqFk/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=Z024LSCMqFk",
+  "videoID": "Z024LSCMqFk",
+  "id": "13",
+  "author_name": "Alura Latam"
+ },
+ {
+  "id_categoria": "6",
+  "titulo": "The simple trick to transition from height 0 to auto with CSS",
+  "thumbnail_url": "https://i.ytimg.com/vi/B_n4YONte5A/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=B_n4YONte5A",
+  "videoID": "B_n4YONte5A",
+  "id": "14",
+  "author_name": "Kevin Powell"
+ },
+ {
+  "id_categoria": "6",
+  "titulo": "The problems with viewport units",
+  "thumbnail_url": "https://i.ytimg.com/vi/veEqYQlfNx8/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=veEqYQlfNx8",
+  "videoID": "veEqYQlfNx8",
+  "id": "15",
+  "author_name": "Kevin Powell"
+ },
+ {
+  "id_categoria": "5",
+  "titulo": "Por qué deberías usar SVG en tus proyectos",
+  "thumbnail_url": "https://i.ytimg.com/vi/qfGH1zhUcCI/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=qfGH1zhUcCI",
+  "videoID": "qfGH1zhUcCI",
+  "id": "20",
+  "author_name": "Garaje de ideas"
+ },
+ {
+  "id_categoria": "6",
+  "titulo": "Conditional render in React with 'display-if'. How to use babel-plugin-jsx-display-if plugin.",
+  "thumbnail_url": "https://i.ytimg.com/vi/romE6ckKkdU/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=romE6ckKkdU",
+  "videoID": "romE6ckKkdU",
+  "id": "21",
+  "author_name": "Travels Code"
+ },
+ {
+  "id_categoria": "6",
+  "titulo": "¿Qué es y cómo funciona useEffect? Hooks de React",
+  "thumbnail_url": "https://i.ytimg.com/vi/TBxpAhpQqYk/hqdefault.jpg",
+  "videoUrl": "https://youtu.be/TBxpAhpQqYk",
+  "videoID": "",
+  "id": "23",
+  "author_name": "midulive"
+ },
+ {
+  "id_categoria": "6",
+  "titulo": "¡Adiós useState! useSignal es el futuro de los Frameworks Web",
+  "thumbnail_url": "https://i.ytimg.com/vi/6CFml6tFltU/hqdefault.jpg",
+  "videoUrl": "https://youtu.be/6CFml6tFltU",
+  "videoID": "",
+  "id": "24",
+  "author_name": "midulive"
+ },
+ {
+  "id_categoria": "6",
+  "titulo": "¡Aprende a crear React Router desde cero y publica el paquete!",
+  "thumbnail_url": "https://i.ytimg.com/vi/K2NcGYajvY4/hqdefault.jpg",
+  "videoUrl": "https://youtu.be/K2NcGYajvY4",
+  "videoID": "",
+  "id": "25",
+  "author_name": "midulive"
+ },
+ {
+  "id_categoria": "6",
+  "titulo": "Looping Inside React JSX: How to Display Loop Data in React JS (with Examples)",
+  "thumbnail_url": "https://i.ytimg.com/vi/N2Gv9wOJ5TE/hqdefault.jpg",
+  "videoUrl": "https://youtu.be/N2Gv9wOJ5TE",
+  "videoID": "",
+  "id": "26",
+  "author_name": "Travels Code"
+ },
+ {
+  "id_categoria": "8",
+  "titulo": "Herramientas Data Science y Big Data ¿Te lías? Te lo explico fácil",
+  "thumbnail_url": "https://i.ytimg.com/vi/fyEBS2qpYEk/hqdefault.jpg",
+  "videoUrl": "https://www.youtube.com/watch?v=fyEBS2qpYEk&pp=ygUIYmlnIGRhdGE%3D",
+  "videoID": "fyEBS2qpYEk",
+  "id": "27",
+  "author_name": "DataScience ForBusiness"
+ },
+ {
+  "id_categoria": "5",
+  "titulo": "UX para DEVELOPERS por Estefany Aguilar [miduConf]",
+  "thumbnail_url": "https://i.ytimg.com/vi/49242uG6jEA/hqdefault.jpg",
+  "videoUrl": "https://youtu.be/49242uG6jEA",
+  "videoID": "",
+  "id": "28",
+  "author_name": "midulive"
+ }
+  ]
+}
